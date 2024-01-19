@@ -14,7 +14,7 @@
     <properties>
         <cassandraJdbcVersion>1.1.2</cassandraJdbcVersion>
         <hectorVersion>1.1-2</hectorVersion>
-        <cassandraVersion>1.1.6</cassandraVersion>
+        <cassandraVersion>4.0.10</cassandraVersion>
         <junitVersion>4.12</junitVersion>
         <skipTests>false</skipTests>
     </properties>
